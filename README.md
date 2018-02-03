@@ -8,7 +8,7 @@ Insert the following into `tslint.json`:
 
 ```
   "rulesDirectory": [
-    "node_modules/bracketslogger-tslint-rules",
+    "node_modules/bracketslogger-tslint-rules/dist",
 ```
 
 and
