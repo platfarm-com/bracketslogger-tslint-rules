@@ -1,6 +1,6 @@
 {
   "name": "bracketslogger-tslint-rules",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "tslint rule to check correct use of backetslogger Log.Debug()",
   "main": "tslint.json",
   "scripts": {
@@ -25,7 +25,7 @@
     "typescript": "~2.6.2"
   },
   "peerDependencies": {
-    "tslint": "~5.1.0",
-    "typescript": "~2.4.0"
+    "tslint": "^5.1.0",
+    "typescript": "^2.4.0"
   }
 }
